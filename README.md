@@ -1,3 +1,4 @@
+<img width="407" height="675" alt="Screenshot 2026-05-14 at 22 25 01" src="https://github.com/user-attachments/assets/fd3b2798-daaa-4889-81d6-580d35bfc21a" />
 # Tic Tac Toe — Java Portfolio Project
 
 A polished, fully-featured Tic Tac Toe game built with Java Swing.
